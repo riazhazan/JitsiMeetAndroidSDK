@@ -3,12 +3,13 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-amplitude</artifactId>
   <versioning>
-    <latest>2.3.3-jitsi-9188678</latest>
-    <release>2.3.3-jitsi-9188678</release>
+    <latest>2.3.3-jitsi-9188999</latest>
+    <release>2.3.3-jitsi-9188999</release>
     <versions>
       <version>2.3.3-jitsi-9188235</version>
       <version>2.3.3-jitsi-9188678</version>
+      <version>2.3.3-jitsi-9188999</version>
     </versions>
-    <lastUpdated>20211129110628</lastUpdated>
+    <lastUpdated>20211129115954</lastUpdated>
   </versioning>
 </metadata>
